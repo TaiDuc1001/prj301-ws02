@@ -66,7 +66,7 @@
             %>
             <br><br>
 
-            <input type="submit" value="Create New Account" name="btAction" />
+            <input type="submit" value="create_new_account" name="btAction" />
             <input type="reset" value="Reset" />
         </form>
     </body>

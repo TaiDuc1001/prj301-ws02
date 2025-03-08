@@ -84,7 +84,8 @@ public class CreateAccountController extends HttpServlet {
             rd.forward(request, response);
         } catch (SQLException ex) {
             Logger.getLogger(CreateAccountController.class.getName()).log(Level.SEVERE, null, ex);
-        }    }
+        }    
+    }
 
     // <editor-fold defaultstate="collapsed" desc="HttpServlet methods. Click on the + sign on the left to edit the code.">
     /**
